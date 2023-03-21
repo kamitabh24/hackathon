@@ -2,7 +2,7 @@ CAMPUSOG
 
 Developed for Rajasthan IT Day Hackathon@ Impactify from Delhi Technical Campus.
 
-Sample apk can be downloaded from following link.
+Apk can be downloaded from following link.
 https://drive.google.com/file/d/1RArY1qT1O4ANpZhvbAo7KW0GjdFyFN6s/view?usp=sharing
 
 Screenrecording can be found at following youtube link.
